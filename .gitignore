@@ -1,0 +1,5 @@
+forntend/node_modules
+forntend/.next
+forntend/next.config.js
+backend/node_modules/
+backend/config/config.env
